@@ -6,10 +6,11 @@
 
 In the future, I hope to post better, more robust examples.
 
-Running this program requires:
-- PostgreSQL installed
-- GnuCOBOL 3.1.2
-- GixSQL 
+Running this program requires: (Versions used for this example in ()).
+
+- PostgreSQL (14)
+- GnuCOBOL (3.1.2)
+- GixSQL (1.0.20a)
 
 For more information about creating a VM, installing the requirements and other information, go to the [DSCOBOL Website](https://dscobol.github.io)
 
